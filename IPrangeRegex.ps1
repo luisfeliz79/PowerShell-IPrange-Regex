@@ -8,7 +8,12 @@
 
 #########################
 # IP SUBNET MATH Functions 
-###########################
+# Borrowed from Mark Gossa 
+# https://gallery.technet.microsoft.com/scriptcenter/PowerShell-Subnet-db45ec74#content
+#######################################################################################
+
+
+
 function Get-IPs { 
  
         Param( 
